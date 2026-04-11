@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 Обо мне
 
-Специалист по ручному тестированию (Web, Mobile) на начальном этапе карьеры с опытом работы по ключевым направлениям.
+Специалист по ручному тестированию (Web, Mobile) с опытом работы по ключевым направлениям.
 
 Организация работы: ведение документации, соблюдение сроков и прозрачная коммуникация с командой.
 
@@ -42,36 +42,7 @@
 | **Языки & Форматы** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white) ![XML](https://img.shields.io/badge/-XML-00599C?style=flat&logo=&logoColor=white) |
 ---
 
-### 📸 Примеры тест-кейсов
 
-<p align="center">
-  <img src="Doc_Example/Images/chrome_GtypplIUn0.png" width="400">
-  <img src="Doc_Example/Images/chrome_JAkAvQYIWj.png" width="400">
-</p>
-
-<p align="center">
-  <img src="Doc_Example/Images/chrome_caxDlQAtWM.png" width="400">
-  <img src="Doc_Example/Images/chrome_dXycCno3cG.png" width="400">
-</p>
-
-<p align="center">
-  <img src="Doc_Example/Images/chrome_lxVCAdHuGK.png" width="400">
-  <img src="Doc_Example/Images/chrome_n0Oi7pNRoz.png" width="400">
-</p>
-
-<p align="center">
-  <img src="Doc_Example/Images/chrome_smGPQCQsHx.png" width="400">
-</p>
-
-### 📁 Портфолио
-
-| Название | Описание | Технологии | Ссылка |
-| :--- | :--- | :--- | :--- |
-| **Документация** | Примеры тестовой документации. | `Test IT` `Excel` | [check-list](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/check_list(1).xlsx) <br> [report](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/Bug_Report_Capital_com_exact_v2.xlsx) |
-| **Коллекция Postman** | Часть коллекции запросов для тестирования и проверки API. Используется командой. | `Postman` | [Экспорт →](https://www.postman.com/speeding-satellite-290820/workspace/geo-agro/collection/38478114-eeecadbf-1286-4da3-a541-7f828fb67b84?action=share&creator=38478114) |
-
-
----
 
 <p align="center">
   <br>
